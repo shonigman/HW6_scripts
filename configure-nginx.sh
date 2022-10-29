@@ -6,6 +6,7 @@ sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade
 # install Nginx and Git
 sudo apt-get install -y nginx
 sudo apt install -y git-all 
+
 # remove any existing files or folders in the root directory 
 sudo rm -rf /var/www/html/
 
